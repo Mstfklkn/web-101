@@ -8,6 +8,9 @@
 # img 
 
 *.png 
+*.jpg
+
+img/
 
 
 önemli bilgiler/
